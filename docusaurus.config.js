@@ -28,8 +28,6 @@ module.exports = {
           activeSidebarClassName: 'navbar__link--active',
           docsPluginId: 'default',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
-        
         {
           href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
@@ -44,8 +42,8 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Interviews',
+              to: '/docs/Interviews',
             },
           ],
         },
@@ -69,10 +67,6 @@ module.exports = {
         {
           title: 'More',
           items: [
-            {
-              label: 'Blog',
-              to: '/blog',
-            },
             {
               label: 'GitHub',
               href: 'https://github.com/facebook/docusaurus',
