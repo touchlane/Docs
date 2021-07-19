@@ -1,18 +1,33 @@
-# Build and Release Folders
-bin-debug/
-bin-release/
-[Oo]bj/
-[Bb]in/
+.DS_Store
+.vscode
+.idea
+*.iml
+*.code-workspace
+.changelog
 
-# Other files and folders
-.settings/
+node_modules
+.yarn
 
-# Executables
-*.swf
-*.air
-*.ipa
-*.apk
+.eslintcache
 
-# Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
-# should NOT be excluded as they contain compiler settings and other important
-# information for Eclipse / Flash Builder.
+yarn-error.log
+build
+coverage
+.docusaurus
+.cache-loader
+types
+test-website
+
+packages/docusaurus/lib/
+packages/docusaurus-*/lib/*
+packages/docusaurus-*/lib-next/
+
+website/netlifyDeployPreview/*
+!website/netlifyDeployPreview/index.html
+!website/netlifyDeployPreview/_redirects
+
+website/i18n/**/*
+#!website/i18n/fr
+#!website/i18n/fr/**/*
+
+.netlify
