@@ -1,0 +1,1 @@
+/docs/interviews/*	200!	Role=admin
