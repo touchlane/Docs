@@ -20,6 +20,7 @@ function HomepageHeader() {
             Docusaurus Tutorial - 5min ⏱️
           </Link>
         </div>
+        <div data-netlify-identity-button>Login with Netlify Identity</div>
       </div>
     </header>
   );
