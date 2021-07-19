@@ -5,7 +5,6 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
-import netlifyIdentity from 'netlify-identity-widget';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -21,7 +20,6 @@ function HomepageHeader() {
             Docusaurus Tutorial - 5min ⏱️
           </Link>
         </div>
-        <button onClick={netlifyIdentity.authenticate}>Log in</button>
       </div>
     </header>
   );
