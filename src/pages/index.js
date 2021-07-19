@@ -21,7 +21,7 @@ function HomepageHeader() {
             Docusaurus Tutorial - 5min ⏱️
           </Link>
         </div>
-        <div data-netlify-identity-button>Login with Netlify Identity</div>
+        <button onClick={netlifyIdentity.authenticate}>Log in</button>
       </div>
     </header>
   );
