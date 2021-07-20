@@ -1,1 +1,1 @@
-/docs/Interviews/*	200!	Role=admin
+    /docs/Interviews              /
