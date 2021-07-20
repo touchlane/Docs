@@ -1,1 +1,1 @@
-    /docs/Interviews              /
+/docs/*              https://www.petsofnetlify.com         
