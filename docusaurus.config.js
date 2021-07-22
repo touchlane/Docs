@@ -30,7 +30,7 @@ module.exports = {
     },
     footer: {
       style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} © 2021 Touchlane LLC. All rights reserved.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Touchlane LLC. All rights reserved.`,
     },
     prism: {
       theme: lightCodeTheme,
