@@ -46,7 +46,7 @@ module.exports = {
           path: 'docs/Docs',
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/touchlane/Docs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
