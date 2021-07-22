@@ -4,23 +4,23 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Touchlane Internal',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'http://d4jj4yp5m67kp.cloudfront.net',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Touchlane', 
+  projectName: 'Docs',
   themeConfig: {
     navbar: {
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Touchlane Logo',
         src: 'img/logo.svg',
       },
       items: [
         {
           type: 'doc',
-          docId: 'Docs',
+          docId: 'docs',
           position: 'left',
           label: 'Docs',
           activeSidebarClassName: 'navbar__link--active',
