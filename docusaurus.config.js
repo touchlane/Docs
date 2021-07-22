@@ -20,7 +20,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'docs',
+          docId: 'Welcome',
           position: 'left',
           label: 'Docs',
           activeSidebarClassName: 'navbar__link--active',
