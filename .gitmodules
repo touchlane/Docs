@@ -1,3 +1,6 @@
 [submodule "docs/Interviews"]
 	path = docs/Interviews
 	url = https://github.com/touchlane/Interviews.git
+[submodule "docs/Docs"]
+	path = docs/Docs
+	url = https://github.com/touchlane/Docs.git
