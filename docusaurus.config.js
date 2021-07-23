@@ -44,9 +44,6 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           path: 'docs/Docs',
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/touchlane/Docs',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
