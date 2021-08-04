@@ -26,6 +26,14 @@ module.exports = {
           activeSidebarClassName: 'navbar__link--active',
           docsPluginId: 'default',
         },
+        {
+          type: 'doc',
+          docId: 'main',
+          position: 'left',
+          label: 'Members',
+          activeSidebarClassName: 'navbar__link--active',
+          docsPluginId: 'members',
+        },
       ],
     },
     footer: {
@@ -50,5 +58,16 @@ module.exports = {
         },
       },
     ],
-  ]
+  ],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'members',
+        path: 'docs/Members',
+        routeBasePath: 'members',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+  ],
 };

@@ -20,7 +20,7 @@ module.exports = {
       items: [
         {
           type: 'doc',
-          docId: 'Welcome',
+          docId: 'main',
           position: 'left',
           label: 'Docs',
           activeSidebarClassName: 'navbar__link--active',
@@ -28,12 +28,20 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'Overview',
+          docId: 'main',
+          position: 'left',
+          label: 'Members',
+          activeSidebarClassName: 'navbar__link--active',
+          docsPluginId: 'members',
+        },
+        {
+          type: 'doc',
+          docId: 'main',
           position: 'left',
           label: 'Interviews',
           activeSidebarClassName: 'navbar__link--active',
           docsPluginId: 'interviews',
-        },
+        }
       ],
     },
     footer: {
@@ -60,6 +68,15 @@ module.exports = {
     ],
   ],
   plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'members',
+        path: 'docs/Members',
+        routeBasePath: 'members',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
     [
       '@docusaurus/plugin-content-docs',
       {

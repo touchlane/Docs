@@ -4,3 +4,6 @@
 [submodule "docs/Docs"]
 	path = docs/Docs
 	url = https://github.com/touchlane/Docs.git
+[submodule "docs/Members"]
+	path = docs/Members
+	url = https://github.com/touchlane/Members.git
