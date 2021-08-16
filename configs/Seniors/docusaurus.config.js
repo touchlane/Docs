@@ -38,9 +38,9 @@ module.exports = {
           type: 'doc',
           docId: 'main',
           position: 'left',
-          label: 'Interviews',
+          label: 'Seniors',
           activeSidebarClassName: 'navbar__link--active',
-          docsPluginId: 'interviews',
+          docsPluginId: 'seniors',
         }
       ],
     },
@@ -80,9 +80,9 @@ module.exports = {
     [
       '@docusaurus/plugin-content-docs',
       {
-        id: 'interviews',
-        path: 'docs/Interviews',
-        routeBasePath: 'interviews',
+        id: 'seniors',
+        path: 'docs/Seniors',
+        routeBasePath: 'seniors',
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
