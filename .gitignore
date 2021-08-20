@@ -4,6 +4,11 @@
 # Production
 /build
 
+# Content
+/docs/Members
+/docs/Seniors
+/docs/Executives
+
 # Generated files
 .docusaurus
 .cache-loader
