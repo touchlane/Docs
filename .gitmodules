@@ -1,9 +1,1 @@
-[submodule "docs/Members"]
-	path = docs/Members
-	url = https://github.com/touchlane/Members.git
-[submodule "docs/Seniors"]
-	path = docs/Seniors
-	url = https://github.com/touchlane/Seniors.git
-[submodule "docs/Executives"]
-	path = docs/Executives
-	url = https://github.com/touchlane/Executives.git
+
