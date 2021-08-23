@@ -1,5 +1,4 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
@@ -38,8 +37,8 @@ module.exports = {
       ],
     },
     footer: {
-      style: 'dark',
-      copyright: `Copyright © ${new Date().getFullYear()} Touchlane LLC. All rights reserved.`,
+      style: 'light',
+      copyright: `<div style="color:#d9d9d9";>Copyright © ${new Date().getFullYear()} Touchlane LLC. All rights reserved.</div>`,
     },
     prism: {
       theme: lightCodeTheme
