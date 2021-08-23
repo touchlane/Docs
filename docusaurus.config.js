@@ -3,7 +3,7 @@ const lightCodeTheme = require('prism-react-renderer/themes/github');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Touchlane Internal',
-  url: 'http://d4jj4yp5m67kp.cloudfront.net',
+  url: 'http://docs.touchlane.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
