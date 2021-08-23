@@ -12,6 +12,10 @@ module.exports = {
   organizationName: 'Touchlane', 
   projectName: 'Docs',
   themeConfig: {
+    colorMode: {
+      defaultMode: 'light',
+      disableSwitch: true,
+    },
     navbar: {
       logo: {
         alt: 'Touchlane Logo',
@@ -38,8 +42,7 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} Touchlane LLC. All rights reserved.`,
     },
     prism: {
-      theme: lightCodeTheme,
-      darkTheme: darkCodeTheme,
+      theme: lightCodeTheme
     },
   },
   presets: [
