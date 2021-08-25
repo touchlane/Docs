@@ -1,4 +1,8 @@
 const lightCodeTheme = require('prism-react-renderer/themes/github');
+const items = require('./config.js').items;
+const presets = require('./config.js').presets;
+const plugins = require('./config.js').plugins;
+
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
@@ -20,7 +24,7 @@ module.exports = {
         alt: 'Touchlane Logo',
         src: 'img/logo.svg',
       },
-      items: require('./menu.js'),
+      items: items,
     },
     footer: {
       style: 'light',
@@ -30,18 +34,6 @@ module.exports = {
       theme: lightCodeTheme
     },
   },
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          path: 'docs/Docs',
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      },
-    ],
-  ],
+  presets: presets,
+  plugins: plugins,
 };
