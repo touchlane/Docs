@@ -12,6 +12,7 @@ module.exports = {
       docsPluginId: 'default',
     },
     {
+      target: '_self',
       href: 'https://api.touchlane.com/api/oauth/github/login',
       label: 'Sign In',
       position: 'right',
