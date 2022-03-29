@@ -9,6 +9,14 @@ module.exports = {
       docsPluginId: 'default',
     },
     {
+      type: 'doc',
+      docId: 'main',
+      position: 'left',
+      label: 'Company',
+      activeSidebarClassName: 'navbar__link--active',
+      docsPluginId: 'company',
+    },
+    {
       target: '_self',
       href: 'https://api.touchlane.com/api/oauth/github/login',
       label: 'Sign In',
@@ -29,5 +37,15 @@ module.exports = {
       },
     ],
   ],
-  plugins: [],
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'company',
+        path: 'docs/Company',
+        routeBasePath: 'company',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+  ]
 }
