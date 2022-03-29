@@ -5,7 +5,7 @@
 * Swift
 * Data structures
 * Networking
-* Autolayout / SwiftUI
+* UIKit / SwiftUI
 * Unit testing
 
 ### Android
