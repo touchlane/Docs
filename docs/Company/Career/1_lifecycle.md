@@ -10,7 +10,7 @@
 
 ## Annual promotion
 1. Acknowledge available [Company Roles](./ladder)
-2. Discuss career growth options with your Account Manager
+2. Discuss career growth options with your [Account Manager](/company/Career/Roles/account_manager)
 3. Work on developing new skills
 4. Near the end of your contract, pass evaluation for any acquired skills
 5. Have you Employee Profile updated with new skills and roles
