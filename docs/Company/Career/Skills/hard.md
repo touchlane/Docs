@@ -12,15 +12,6 @@
 
 ### Java Back-end
 
-### Manual QA
-* Manual testing
-* Test documentation
-
-### Business Analysis
-* Product requirements
-* Reports
-* Project documentation
-
 ### System Design
 * Technology trade-offs
 * Scalability
@@ -31,6 +22,20 @@
 * Client-server design
 * Reliability and error handling
 * Real-world performance
+
+### Manual QA
+* Manual testing
+* Test documentation
+
+### Business Analysis
+* Product requirements
+* Project documentation
+
+### Project Management
+* Delivery methodologies
+* Release strategy
+* Reports
+* Risk management
 
 ### English B1 (Intermediate)
 * Req.1
