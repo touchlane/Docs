@@ -12,9 +12,7 @@
 * Android SDK
 * Android Jetpack
 * Kotlin / Java
-* App architecture
 * Data structures
-* Data persistence
 * Networking
 * Unit testing
 
