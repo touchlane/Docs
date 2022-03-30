@@ -31,6 +31,7 @@
 
 ### Hard Skills
 * [Business Analysis](../Skills/hard.md#business-analysis)
+* [Project Management](../Skills/hard.md#project-management)
 * [English B2](../Skills/hard.md#english-b2-upper-intermediate)
 
 ## Salary
