@@ -9,6 +9,15 @@
 * Unit testing
 
 ### Android
+* Android SDK
+* Android Jetpack
+* Kotlin / Java
+* Coroutines
+* App architecture
+* Data structures
+* Data persistence
+* Networking
+* Unit testing
 
 ### Java Back-end
 
