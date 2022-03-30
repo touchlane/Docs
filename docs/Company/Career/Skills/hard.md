@@ -12,7 +12,6 @@
 * Android SDK
 * Android Jetpack
 * Kotlin / Java
-* Coroutines
 * App architecture
 * Data structures
 * Data persistence
