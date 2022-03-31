@@ -1,7 +1,7 @@
 ---
 id: main
-title: Touchlane
+title: Structure
 sidebar_position: 1
 ---
 
-# Touchlane
+# Structure
