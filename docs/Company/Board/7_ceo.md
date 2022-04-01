@@ -2,3 +2,4 @@
 
 ## Responsibilities
 
+## Irina Veremeichuk
