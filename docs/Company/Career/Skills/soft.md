@@ -1,5 +1,7 @@
 # Soft Skills
 
+Lists and defines non-technical skills, personality traits and behaviors that relate to how you work and how you treat other people. 
+
 ### Advanced Communication
 * Mitigate any communication issues across the team
 * Try to negotiate reasonable compromise between client needs and team capabilities
