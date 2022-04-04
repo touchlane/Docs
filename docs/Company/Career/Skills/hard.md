@@ -17,6 +17,14 @@
 * Unit testing
 
 ### Java Back-end
+* Java SE
+* Data structures
+* Networking
+* Unit testing
+* Spring Framework / Java EE
+* RDBMS
+* API design and development
+* External API integration
 
 ### System Design
 * Technology trade-offs
