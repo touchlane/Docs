@@ -14,7 +14,8 @@
 
 ### Responsibilities
 
-* Establish policies and procedures that promote company's culture and vision
-* Achieve favorable financial results with respect to profitability, cash flow, reporting and controls
-* Oversee daily operations
-* Ensure proper paperwork flow
+* Overseeing the daily business and administrative operations and improving operating procedures for optimal efficiency
+* Assessing and enhancing the efficiency of internal and external operational processes
+* Establishing policies that improve and promote company vision and culture
+* Evaluating company performance and recommend strategies to improve results
+* Collaborating with management and other stakeholders to raise capital and carry out other business-expanding strategies
