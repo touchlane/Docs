@@ -11,6 +11,8 @@
 
 * Company operations
 * Legal compliance
+* Business infrastructure
+* Scaling
 
 ### Responsibilities
 
