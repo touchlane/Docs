@@ -1,7 +1,7 @@
 # Account Manager
 
 ## Responsibilities 
-* Drive efficient communication with clients 
+* Maintain customer support and communication
 * Enhance company’s reputation
 * Aim at increasing owned projects turnover
 * Take ownership over the projects’ personnel lifecycles
