@@ -1,4 +1,4 @@
-# Core Engineer
+# Software Developer
 
 ## Responsibilities 
 * Follow project regulations

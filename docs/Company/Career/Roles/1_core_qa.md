@@ -1,4 +1,4 @@
-# Core QA Engineer
+# QA Engineer
 
 ## Responsibilities 
 * Follow project regulations
