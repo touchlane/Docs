@@ -35,6 +35,5 @@
 * [English B2](../Skills/hard.md#english-b2-upper-intermediate)
 
 ## Salary
-* Salary growth limit is tied to number of employees under Account Manager responsibility
 * Salary cannot drop below its most recent amount (ie. due to a project cut-off)
-* Account Manager is granted a monetary bonus based on project annual return
+* Account Manager is granted a monetary bonus based on company annual return

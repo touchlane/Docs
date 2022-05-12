@@ -1,10 +1,12 @@
-# Project Lead
+# Engineering Manager
 
-## Responsibilities 
-* Indicate project risks 
-* Analyse delivery deviations
-* Maintain project guidance integrity & fulfillment
-* Drive process improvements & best practices
+## Responsibilities
+* Communicate effectively with customers
+* Develop and implement policies, standards and procedures for developers
+* Turn product requirements into technical tasks
+* Prioritize, delegate and supervise engineering team workload
+* Indicate project risks and delivery deviations
+
 
 ## Requirements
 
@@ -28,12 +30,12 @@
 * [Time-management](../Skills/soft.md#time-management)
 
 ### Hard Skills
-* [iOS](../Skills/hard.md#ios) | [Android](../Skills/hard.md#android)  | [Java Back-end](../Skills/hard.md#java-back-end))
+* [iOS](../Skills/hard.md#ios) | [Android](../Skills/hard.md#android)  | [Java Back-end](../Skills/hard.md#java-back-end) | [Manual QA](../Skills/hard.md#manual-qa)
 * [Business Analysis](../Skills/hard.md##business-analysis)
 * [Project Management](../Skills/hard.md#project-management)
 * [English B2](../Skills/hard.md#english-b2-upper-intermediate)
 
 ## Salary
-1. Salary growth limit is inherited from employee's base project role (ie. QA Engineer or Tech Lead)
+1. Salary growth limit is tied to project rate
 2. Salary cannot drop below its most recent amount (ie. due to a project shift or a temporary bench)
-3. Project Lead is additionally granted a monetary bonus based on project annual return
+3. Engineering Manager is additionally granted a monetary bonus based on company's annual return
