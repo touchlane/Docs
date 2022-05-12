@@ -1,10 +1,12 @@
-# Project Lead
+# Engineering Manager
 
-## Responsibilities 
-* Indicate project risks 
-* Analyse delivery deviations
-* Maintain project guidance integrity & fulfillment
-* Drive process improvements & best practices
+## Responsibilities
+* Communicate effectively with customers
+* Develop and implement policies, standards and procedures for developers
+* Turn product requirements into technical tasks
+* Prioritize, delegate and supervise engineering team workload
+* Indicate project risks and delivery deviations
+
 
 ## Requirements
 
@@ -32,6 +34,6 @@
 * [English B2](../Skills/hard.md#english-b2-upper-intermediate)
 
 ## Salary
-1. Salary growth limit is inherited from employee's base project role (ie. Core QA Engineer or Tech Lead)
+1. Salary growth limit is tied to project rate
 2. Salary cannot drop below its most recent amount (ie. due to a project shift or a temporary bench)
-3. Project Lead is additionally granted a monetary bonus based on project annual return
+3. Engineering Manager is additionally granted a monetary bonus based on company's annual return

@@ -1,4 +1,4 @@
-# Core QA Engineer
+# Software Developer
 
 ## Responsibilities 
 * Follow project regulations
@@ -18,10 +18,9 @@
 * [Time-management](../Skills/soft.md#time-management)
 
 ### Hard Skills
-* [Manual QA](../Skills/hard.md#manual-qa)
-* [Business Analysis](../Skills/hard.md#business-analysis)
-* [English B2](../Skills/hard.md#english-b2-upper-intermediate)
+* [iOS](../Skills/hard.md#ios) | [Android](../Skills/hard.md#android)  | [Java Back-end](../Skills/hard.md#java-back-end)
+* [English B1](../Skills/hard.md#english-b1-intermediate)
 
 ## Salary
-1. Salary growth limit is tied to project rate	
-2. Salary cannot drop below its most recent amount (ie. due to a project shift or a temporary bench)
+* Salary growth limit is tied to project rate
+* Salary cannot drop below its most recent amount (ie. due to a project shift or a temporary bench)
