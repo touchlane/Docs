@@ -11,6 +11,7 @@
 ### Soft Skills
 * [Advanced Communication](../Skills/soft.md#advanced-communication)
 * [Analysis](../Skills/soft.md#analysis)
+* [Building Trust](../Skills/soft.md#building-trust)
 * [Business Thinking](../Skills/soft.md#business-thinking)
 * [Courage](../Skills/soft.md#courage)
 * [Critical Thinking](../Skills/soft.md#critical-thinking)
@@ -18,6 +19,7 @@
 * [Delegation](../Skills/soft.md#delegation)
 * [Ethics](../Skills/soft.md#ethics)
 * [Feedback](../Skills/soft.md#feedback)
+* [Negotiation](../Skills/soft.md#fnegotiation)
 * [Planning](../Skills/soft.md#planning)
 * [Proactivity](../Skills/soft.md#proactivity)
 * [Responsibility](../Skills/soft.md#responsibility)
@@ -26,12 +28,12 @@
 * [Time-management](../Skills/soft.md#time-management)
 
 ### Hard Skills
-* [iOS](../Skills/hard.md#ios) | [Android](../Skills/hard.md#android)  | [Java Back-end](../Skills/hard.md#java-back-end) | [Manual QA](../Skills/hard.md#manual-qa)
+* [iOS](../Skills/hard.md#ios) | [Android](../Skills/hard.md#android)  | [Java Back-end](../Skills/hard.md#java-back-end))
 * [Business Analysis](../Skills/hard.md##business-analysis)
 * [Project Management](../Skills/hard.md#project-management)
 * [English B2](../Skills/hard.md#english-b2-upper-intermediate)
 
 ## Salary
-1. Salary growth limit is inherited from employee's base project role (ie. Core QA Engineer or Tech Lead)
+1. Salary growth limit is inherited from employee's base project role (ie. QA Engineer or Tech Lead)
 2. Salary cannot drop below its most recent amount (ie. due to a project shift or a temporary bench)
 3. Project Lead is additionally granted a monetary bonus based on project annual return
