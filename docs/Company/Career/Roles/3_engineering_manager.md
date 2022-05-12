@@ -30,7 +30,7 @@
 * [Time-management](../Skills/soft.md#time-management)
 
 ### Hard Skills
-* [iOS](../Skills/hard.md#ios) | [Android](../Skills/hard.md#android)  | [Java Back-end](../Skills/hard.md#java-back-end) | [Manual QA](../Skills/hard.md#manual-qa)
+* [iOS](../Skills/hard.md#ios) | [Android](../Skills/hard.md#android)  | [Java Back-end](../Skills/hard.md#java-back-end)
 * [Business Analysis](../Skills/hard.md##business-analysis)
 * [Project Management](../Skills/hard.md#project-management)
 * [English B2](../Skills/hard.md#english-b2-upper-intermediate)
