@@ -1,5 +1,7 @@
 # Lifecycle
 
+Identifies the most important stages that employees go through as they engage with the company.
+
 ## First steps
 1. Successfully pass all interviews for the anticipated position
 2. Receive a job offer

@@ -1,5 +1,7 @@
 # Hard Skills
 
+Refers to teachable abilities that let employees tackle job-specific duties and responsibilities.
+
 ### iOS
 * iOS SDK
 * Swift
