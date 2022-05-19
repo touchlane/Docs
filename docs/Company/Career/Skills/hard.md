@@ -14,6 +14,7 @@ Refers to teachable abilities that let employees tackle job-specific duties and 
 * Android SDK
 * Android Jetpack
 * Kotlin / Java
+* Jetpack Compose
 * Data structures
 * Networking
 * Unit testing
