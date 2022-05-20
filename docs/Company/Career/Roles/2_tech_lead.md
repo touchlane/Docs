@@ -32,4 +32,4 @@
 ## Salary
 1. Salary growth limit is tied to project rate
 2. Salary cannot drop below its most recent amount (ie. due to a project shift or a temporary bench)
-3. Tech Lead Manager is additionally granted a monetary bonus based on company's annual return
+3. Tech Lead is additionally granted a monetary bonus based on company's annual return
