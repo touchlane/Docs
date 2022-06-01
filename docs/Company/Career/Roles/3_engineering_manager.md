@@ -2,6 +2,7 @@
 
 ## Responsibilities
 * Communicate effectively with customers
+* Conduct interviews involving your skills
 * Develop and implement policies, standards and procedures for developers
 * Turn product requirements into technical tasks
 * Prioritize, delegate and supervise engineering team workload
